@@ -1,0 +1,21 @@
+{
+  "name": "npm-demo-post-tweets",
+  "version": "1.0.0",
+  "description": "NPM demonstration",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twit",
+    "bot",
+    "api",
+    "twitter"
+  ],
+  "author": "shaminder galla",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
